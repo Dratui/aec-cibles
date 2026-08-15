@@ -10,5 +10,8 @@ const repo = process.env.GITHUB_REPOSITORY?.split("/")[1];
 
 export default defineConfig({
   site: isCI && owner && repo ? `https://${owner}.github.io/${repo}` : undefined,
-  base: isCI && repo ? `/${repo}` : "/",
+  // Toujours un slash final : le code des composants (FilterSelector,
+  // [filtre].astro) construit les liens internes en concaténant
+  // directement `${base}resultats/...`, sans slash implicite.
+  base: isCI && repo ? `/${repo}/` : "/",
 });
