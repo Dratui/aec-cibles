@@ -1,0 +1,212 @@
+[
+  {
+    "slug": "jeune",
+    "label": "Je suis jeune",
+    "groupe": "Autres",
+    "description": "Mesures qui concernent directement les 16-30 ans : autonomie des jeunes, éducation/formation, emploi des jeunes, service citoyen, participation et vote des jeunes.",
+    "nb_mesures": 104
+  },
+  {
+    "slug": "etudiant",
+    "label": "Je suis étudiant·e",
+    "groupe": "Autres",
+    "description": "Mesures sur l'enseignement supérieur, les conditions de vie étudiantes, les bourses, le logement étudiant, la gratuité des études.",
+    "nb_mesures": 42
+  },
+  {
+    "slug": "retraite",
+    "label": "Je suis retraité·e",
+    "groupe": "Autres",
+    "description": "Mesures sur l'âge de départ, le montant et l'indexation des pensions, les EHPAD et le grand âge, la dépendance.",
+    "nb_mesures": 37
+  },
+  {
+    "slug": "parent",
+    "label": "Je suis parent",
+    "groupe": "Autres",
+    "description": "Mesures sur la petite enfance, l'école, la protection de l'enfance, le soutien à la parentalité, la nutrition et la santé des enfants.",
+    "nb_mesures": 43
+  },
+  {
+    "slug": "handicap",
+    "label": "Je suis en situation de handicap",
+    "groupe": "Autres",
+    "description": "Mesures sur l'autonomie financière, l'accessibilité, l'école inclusive (AESH), l'emploi (ESAT) et la prise en charge du handicap.",
+    "nb_mesures": 21
+  },
+  {
+    "slug": "feministe",
+    "label": "Je suis féministe",
+    "groupe": "Autres",
+    "description": "Mesures sur l'égalité femmes-hommes, les violences sexistes et sexuelles, les droits reproductifs, les écarts de rémunération et de retraite, la parité.",
+    "nb_mesures": 110
+  },
+  {
+    "slug": "ecologiste",
+    "label": "Je suis écologiste",
+    "groupe": "Autres",
+    "description": "Mesures de planification écologique, climat, biodiversité, énergie, eau, forêt, agriculture écologique, pollution.",
+    "nb_mesures": 212
+  },
+  {
+    "slug": "antiraciste",
+    "label": "Je suis antiraciste",
+    "groupe": "Autres",
+    "description": "Mesures de lutte contre les discriminations raciales, le contrôle au faciès, l'islamophobie et l'antisémitisme, la mémoire de l'esclavage et de la colonisation.",
+    "nb_mesures": 55
+  },
+  {
+    "slug": "lgbtqia",
+    "label": "Je suis LGBTQIA+",
+    "groupe": "Autres",
+    "description": "Mesures sur les droits et la protection des personnes LGBTI : violences, thérapies de conversion, changement d'état civil, droit d'asile, associations LGBTI.",
+    "nb_mesures": 49
+  },
+  {
+    "slug": "republicain",
+    "label": "Je crois aux valeurs républicaines",
+    "groupe": "Autres",
+    "description": "Mesures institutionnelles et démocratiques : 6e République, laïcité, RIC, séparation de l'argent et de l'État, universalisme, État de droit.",
+    "nb_mesures": 120
+  },
+  {
+    "slug": "pacifiste",
+    "label": "Je suis pacifiste",
+    "groupe": "Autres",
+    "description": "Mesures de désescalade militaire, sortie de l'OTAN, désarmement, cessez-le-feu, refus de la course aux armements.",
+    "nb_mesures": 42
+  },
+  {
+    "slug": "internationaliste",
+    "label": "Je suis internationaliste",
+    "groupe": "Autres",
+    "description": "Mesures de coopération internationale, réforme des institutions multilatérales (ONU, FMI, OMC), solidarité entre les peuples, diplomatie altermondialiste.",
+    "nb_mesures": 100
+  },
+  {
+    "slug": "animaliste",
+    "label": "Je suis animaliste",
+    "groupe": "Autres",
+    "description": "Mesures de protection de la cause animale : fermes-usines, maltraitance, chasse et loisirs cruels, expérimentation animale, biodiversité.",
+    "nb_mesures": 22
+  },
+  {
+    "slug": "salarie",
+    "label": "Je suis salarié·e",
+    "groupe": "Autres",
+    "description": "Mesures sur le temps de travail, les salaires, les droits collectifs dans l'entreprise, les conditions de travail, la protection contre les licenciements.",
+    "nb_mesures": 75
+  },
+  {
+    "slug": "fonctionnaire",
+    "label": "Je suis fonctionnaire",
+    "groupe": "Autres",
+    "description": "Mesures sur le statut, les rémunérations et les moyens des agents publics (Éducation nationale, hôpital, collectivités, fonction publique d'État).",
+    "nb_mesures": 47
+  },
+  {
+    "slug": "independant",
+    "label": "Je suis indépendant·e",
+    "groupe": "Autres",
+    "description": "Mesures sur le statut des travailleurs indépendants, autoentrepreneurs, plateformes numériques, TPE/PME.",
+    "nb_mesures": 33
+  },
+  {
+    "slug": "agriculteur",
+    "label": "Je suis agriculteur·rice",
+    "groupe": "Autres",
+    "description": "Mesures sur les prix agricoles, la PAC, la réforme agraire, les retraites agricoles, l'agriculture écologique et la souveraineté alimentaire.",
+    "nb_mesures": 36
+  },
+  {
+    "slug": "chomage",
+    "label": "Je suis au chômage",
+    "groupe": "Autres",
+    "description": "Mesures sur l'assurance-chômage, l'indemnisation, la garantie d'emploi, les droits des demandeurs d'emploi.",
+    "nb_mesures": 13
+  },
+  {
+    "slug": "precaire",
+    "label": "Je vis une situation précaire",
+    "groupe": "Autres",
+    "description": "Mesures de lutte contre la pauvreté et la précarité : garantie d'autonomie, minima sociaux, contrats précaires, accès aux droits.",
+    "nb_mesures": 84
+  },
+  {
+    "slug": "soignant",
+    "label": "Je suis soignant·e",
+    "groupe": "Autres",
+    "description": "Mesures sur l'hôpital public, les professionnels de santé, le grand âge, la réponse aux pandémies, la médecine du travail.",
+    "nb_mesures": 21
+  },
+  {
+    "slug": "enseignant",
+    "label": "Je suis enseignant·e",
+    "groupe": "Autres",
+    "description": "Mesures sur les personnels de l'Éducation nationale, leur rémunération, leurs moyens et les réformes de l'école.",
+    "nb_mesures": 14
+  },
+  {
+    "slug": "outremer",
+    "label": "J'habite en Outre-mer",
+    "groupe": "Autres",
+    "description": "Mesures spécifiques aux territoires d'Outre-mer : eau, services publics, planification écologique, diplomatie, protection de l'enfance.",
+    "nb_mesures": 91
+  },
+  {
+    "slug": "campagne",
+    "label": "J'habite à la campagne",
+    "groupe": "Autres",
+    "description": "Mesures pour les territoires ruraux métropolitains : maillage de services publics, agriculture, mobilité, déserts médicaux (Outre-mer exclu, voir filtre dédié).",
+    "nb_mesures": 103
+  },
+  {
+    "slug": "quartier_populaire",
+    "label": "J'habite un quartier populaire",
+    "groupe": "Autres",
+    "description": "Mesures pour les quartiers populaires : maillage de services publics, éducation prioritaire, police de proximité, lutte contre les discriminations.",
+    "nb_mesures": 30
+  },
+  {
+    "slug": "locataire",
+    "label": "Je suis locataire",
+    "groupe": "Autres",
+    "description": "Mesures sur l'encadrement des loyers, la protection contre les expulsions, le logement social, la rénovation des passoires thermiques.",
+    "nb_mesures": 34
+  },
+  {
+    "slug": "aidant_familial",
+    "label": "Je suis aidant·e familial·e",
+    "groupe": "Autres",
+    "description": "Mesures sur le service public de la dépendance, le soutien aux aidants et le maintien à domicile des personnes âgées ou dépendantes.",
+    "nb_mesures": 5
+  },
+  {
+    "slug": "services_publics",
+    "label": "Je soutiens les services publics",
+    "groupe": "Autres",
+    "description": "Mesures de défense et de renforcement des services publics : santé, éducation, transports, énergie, eau, justice, sécurité, médias publics.",
+    "nb_mesures": 315
+  },
+  {
+    "slug": "libertes_numeriques",
+    "label": "Je défends les libertés numériques",
+    "groupe": "Autres",
+    "description": "Mesures sur la neutralité du Net, la protection des données, le chiffrement, la souveraineté numérique, la lutte contre la surveillance algorithmique.",
+    "nb_mesures": 32
+  },
+  {
+    "slug": "sportif",
+    "label": "Je suis sportif·ve",
+    "groupe": "Autres",
+    "description": "Mesures sur l'accès au sport, le sport scolaire et amateur, le sport féminin, la lutte contre les discriminations dans le sport.",
+    "nb_mesures": 15
+  },
+  {
+    "slug": "artiste",
+    "label": "Je suis artiste",
+    "groupe": "Autres",
+    "description": "Mesures sur le budget de la culture, le statut des artistes et intermittents, la création et la diffusion artistique.",
+    "nb_mesures": 24
+  }
+]
