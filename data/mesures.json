@@ -80,7 +80,8 @@
     "texte": "Combattre l'influence des lobbys dans le débat parlementaire, notamment en imposant la transparence des agendas des membres des bureaux des Parlements et du gouvernement, interdire l'entrée du Parlement aux lobbyistes et leurs cadeaux aux parlementaires, aux membres du gouvernement et à leurs cabinets",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -92,7 +93,8 @@
     "texte": "Rendre inéligible toute personne condamnée pour corruption et mettre en place un plan national de lutte contre la corruption et les délits de probité",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -104,7 +106,8 @@
     "texte": "Durcir les règles contre les conflits d'intérêts et interdire le pantouflage : tout haut fonctionnaire souhaitant travailler dans le privé devra démissionner de la fonction publique et rembourser le prix de sa formation s'il n'a pas servi au moins dix ans",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -116,7 +119,8 @@
     "texte": "Allonger à dix ans les périodes d'interdiction d'exercice d'une fonction privée après avoir exercé une activité dans la fonction publique relative au même secteur",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -128,7 +132,8 @@
     "texte": "Garantir les recrutements qui reflètent la diversité sociale dans les concours de la fonction publique",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -140,7 +145,8 @@
     "texte": "Supprimer le monopole du déclenchement de poursuites judiciaires par la seule administration fiscale pour toutes les affaires en cas de fraude, quelle qu'elle soit : la justice doit pouvoir enquêter librement, même contre l'avis du ministre",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -152,7 +158,8 @@
     "texte": "Mettre fin au monopole de la parole des patrons par le Medef et fonder la représentativité des organisations patronales sur la base d'élections des chefs d'entreprise, comme c'est le cas pour les syndicats de salariés",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -164,7 +171,8 @@
     "texte": "Organiser l'élection des administrateurs de la Sécurité sociale par les assurés eux-mêmes et leur donner le pouvoir de lever les cotisations",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -176,7 +184,8 @@
     "texte": "Réformer le financement de la vie politique et abaisser à 200 euros le plafond des dons individuels aux partis politiques",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -188,7 +197,8 @@
     "texte": "Interdire la sous-traitance et la surfacturation de la mise en oeuvre et de l'évaluation des politiques publiques à des cabinets de conseils privés",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -200,7 +210,8 @@
     "texte": "Abolir la réforme Macron du corps préfectoral et diplomatique",
     "page_pdf": 24,
     "filtres": [
-      "republicain"
+      "republicain",
+      "anticapitaliste"
     ]
   },
   {
@@ -466,8 +477,9 @@
     "texte": "Adopter une loi anti-concentration dans les médias et engager leur démocratisation : élargir les règles anti-concentration sans tenir compte du support (quotidiens, hebdomadaires, édition) ; établir des règles anti-concentrations horizontales (détenir à la fois des entreprises de presse, télévision, radio, etc.) ainsi qu'entre filières des médias et d'autres industries culturelles comme l'édition ; empêcher le même groupe de posséder à la fois les infrastructures (les réseaux, les box) et la production des contenus (chaînes, programmes, droits sportifs), ce qui crée de fait des situations de monopole",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -479,8 +491,9 @@
     "texte": "Transformer le « Conseil de déontologie des médias » créé en 2019 en véritable contre-pouvoir citoyen",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -492,8 +505,9 @@
     "texte": "Protéger le secteur des intérêts financiers et politiques en dotant les rédactions d'un statut juridique, en introduisant une charte déontologique dans la convention collective",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -505,8 +519,9 @@
     "texte": "Instaurer une neutralité des plateformes pour empêcher les espaces numériques qui servent à transmettre des informations d'être des instruments d'influence au service des convictions personnelles de leurs dirigeants",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -518,8 +533,9 @@
     "texte": "Donner aux abonnés des journaux et aux usagers de l'audiovisuel public des droits sur la gouvernance de ces médias",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -531,8 +547,9 @@
     "texte": "Réserver les aides publiques à la presse aux seuls médias d'information, mutualiser les outils de distribution (imprimeries, serveurs, distribution)",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -544,8 +561,9 @@
     "texte": "Élire au Parlement les présidents de France Télévisions et de Radio France",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -557,8 +575,9 @@
     "texte": "Favoriser les coopératives de journalistes, travailleurs des médias et de lecteurs/spectateurs/auditeurs, attribuer des fréquences aux médias locaux et associatifs",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -570,8 +589,9 @@
     "texte": "Renforcer la liberté des journalistes en luttant contre les « procédures bâillons », empêcher les procédures relatives à la liberté de la presse d'être jugées devant des tribunaux de commerce",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -583,8 +603,9 @@
     "texte": "Protéger les journalistes couvrant les manifestations contre les violences, pour leur permettre d'exercer leur droit d'informer",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -596,8 +617,9 @@
     "texte": "Appliquer la loi visant à plus de transparence dans les sondages politiques adoptée à l'unanimité au Sénat en 2011 et interdire les sondages dans les jours précédant les élections comme c'était le cas jusqu'en 2002",
     "page_pdf": 27,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste"
     ]
   },
   {
@@ -609,7 +631,8 @@
     "texte": "Créer un défenseur des biens communs chargé de produire et publier un rapport annuel",
     "page_pdf": 30,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "anticapitaliste"
     ]
   },
   {
@@ -621,7 +644,8 @@
     "texte": "Empêcher le droit de propriété privée de prévaloir sur la protection de l'eau, de l'air, de l'alimentation, du vivant, de la forêt, de la santé et de l'énergie",
     "page_pdf": 30,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "anticapitaliste"
     ]
   },
   {
@@ -633,7 +657,8 @@
     "texte": "Garantir un accès respectueux à la nature pour toutes et tous en rétablissant l'accès aux sentiers balisés, y compris s'ils sont sur une propriété privée, grâce à la mise en place de servitudes de passage encadrées",
     "page_pdf": 30,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "anticapitaliste"
     ]
   },
   {
@@ -645,7 +670,9 @@
     "texte": "Rendre effectif le droit de réquisition des usines et entreprises d'intérêt général par l'État",
     "page_pdf": 31,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -657,7 +684,9 @@
     "texte": "Décréter un moratoire sur les partenariats publics-privés (PPP), auditer ceux en cours et abroger les dispositions législatives les permettant",
     "page_pdf": 31,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -669,7 +698,9 @@
     "texte": "Poursuivre les atteintes au patrimoine industriel français faisant partie des « intérêts fondamentaux de la Nation », comme le prévoit le Code pénal",
     "page_pdf": 31,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -681,7 +712,9 @@
     "texte": "Constituer des pôles publics dans les secteurs stratégiques : médicaments, transports et mobilité, banque, énergie, armement",
     "page_pdf": 31,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -693,7 +726,8 @@
     "texte": "Accorder aux comités d'entreprise un droit de veto suspensif sur les plans de licenciements et de nouveaux droits de contrôle sur les finances de leur entreprise",
     "page_pdf": 32,
     "filtres": [
-      "salarie"
+      "salarie",
+      "anticapitaliste"
     ]
   },
   {
@@ -705,7 +739,8 @@
     "texte": "Donner plus de pouvoir aux salariés lors des procédures de redressement et de liquidation d'entreprise et instaurer le droit à un vote de défiance à l'égard des dirigeants d'entreprise ou des projets stratégiques",
     "page_pdf": 32,
     "filtres": [
-      "salarie"
+      "salarie",
+      "anticapitaliste"
     ]
   },
   {
@@ -717,7 +752,8 @@
     "texte": "Augmenter la représentation des salariés dans les instances de décision des grandes entreprises à au moins un tiers et inclure d'autres parties prenantes comme les associations environnementales ou de consommateurs",
     "page_pdf": 32,
     "filtres": [
-      "salarie"
+      "salarie",
+      "anticapitaliste"
     ]
   },
   {
@@ -729,7 +765,8 @@
     "texte": "Garantir les droits des représentants des personnels et des délégués syndicaux contre les licenciements abusifs des salariés protégés",
     "page_pdf": 32,
     "filtres": [
-      "salarie"
+      "salarie",
+      "anticapitaliste"
     ]
   },
   {
@@ -855,7 +892,9 @@
     "filtres": [
       "feministe",
       "lgbtqia",
-      "republicain"
+      "republicain",
+      "anticapitaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -869,7 +908,9 @@
     "filtres": [
       "feministe",
       "lgbtqia",
-      "republicain"
+      "republicain",
+      "anticapitaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -883,7 +924,9 @@
     "filtres": [
       "feministe",
       "lgbtqia",
-      "republicain"
+      "republicain",
+      "anticapitaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -897,7 +940,9 @@
     "filtres": [
       "feministe",
       "lgbtqia",
-      "republicain"
+      "republicain",
+      "anticapitaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -911,7 +956,9 @@
     "filtres": [
       "feministe",
       "lgbtqia",
-      "republicain"
+      "republicain",
+      "anticapitaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -925,7 +972,9 @@
     "filtres": [
       "feministe",
       "lgbtqia",
-      "republicain"
+      "republicain",
+      "anticapitaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -939,7 +988,9 @@
     "filtres": [
       "feministe",
       "lgbtqia",
-      "republicain"
+      "republicain",
+      "anticapitaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -953,7 +1004,9 @@
     "filtres": [
       "feministe",
       "lgbtqia",
-      "republicain"
+      "republicain",
+      "anticapitaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -1524,7 +1577,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1537,7 +1591,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1550,7 +1605,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1563,7 +1619,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1576,7 +1633,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1589,7 +1647,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1602,7 +1661,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1615,7 +1675,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1628,7 +1689,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1641,7 +1703,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1654,7 +1717,8 @@
     "page_pdf": 46,
     "filtres": [
       "jeune",
-      "services_publics"
+      "services_publics",
+      "progres_technologique"
     ]
   },
   {
@@ -1806,7 +1870,8 @@
     "texte": "Mettre en place une conscription citoyenne de neuf mois, pour les femmes et les hommes de moins de 25 ans, rémunérée au SMIC - revalorisé - ; elle comprend une formation militaire initiale (avec droit d'objection de conscience) et des tâches d'utilité publique (secours aux personnes, sécurité civile, protection et réparation de l'environnement, appui à des associations labellisées d'intérêt général, appui à la population en cas de crise sanitaire)",
     "page_pdf": 48,
     "filtres": [
-      "jeune"
+      "jeune",
+      "souverainete"
     ]
   },
   {
@@ -1818,7 +1883,8 @@
     "texte": "Intégrer dans cette conscription un bilan de santé et une évaluation des capacités d'écriture, lecture et calcul, avec mise à niveau si nécessaire. Elle comprendra aussi une formation gratuite à la conduite et le passage de l'examen du permis de conduire",
     "page_pdf": 48,
     "filtres": [
-      "jeune"
+      "jeune",
+      "souverainete"
     ]
   },
   {
@@ -1830,7 +1896,8 @@
     "texte": "Abroger le SNU et faire la lumière sur les dérives sexistes, racistes et violentes qui s'y sont produites",
     "page_pdf": 48,
     "filtres": [
-      "jeune"
+      "jeune",
+      "souverainete"
     ]
   },
   {
@@ -1842,7 +1909,8 @@
     "texte": "Créer une garde nationale sous commandement civil, composée de la réserve de sécurité nationale, de la réserve de sécurité civile, de la réserve citoyenne et des jeunes en service citoyen obligatoire ayant souhaité intégrer l'une de ces réserves",
     "page_pdf": 48,
     "filtres": [
-      "jeune"
+      "jeune",
+      "souverainete"
     ]
   },
   {
@@ -1853,7 +1921,9 @@
     "titre": "Instaurer une taxe réelle sur les transactions financières",
     "texte": "Séparer les banques d'affaires et de détail",
     "page_pdf": 50,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste"
+    ]
   },
   {
     "id": "AEC-0143",
@@ -1863,7 +1933,9 @@
     "titre": "Instaurer une taxe réelle sur les transactions financières",
     "texte": "Contrôler les mouvements de capitaux",
     "page_pdf": 50,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste"
+    ]
   },
   {
     "id": "AEC-0144",
@@ -1873,7 +1945,9 @@
     "titre": "Instaurer une taxe réelle sur les transactions financières",
     "texte": "Identifier et interdire les produits dérivés de la finance toxiques et inutiles, limiter les effets de levier et les rendements actionnariaux exorbitants, taxer les rachats d'action",
     "page_pdf": 50,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste"
+    ]
   },
   {
     "id": "AEC-0145",
@@ -1883,7 +1957,9 @@
     "titre": "Instaurer une taxe réelle sur les transactions financières",
     "texte": "Limiter les LBO (rachat d'une entreprise par une société qui recourt à l'emprunt) aux seules procédures de reprise des entreprises par les salariés",
     "page_pdf": 50,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste"
+    ]
   },
   {
     "id": "AEC-0146",
@@ -1894,7 +1970,9 @@
     "texte": "Socialiser certaines banques de détail (une fois les activités d'affaires séparées des activités de détail) et les intégrer au pôle public bancaire, en vue de financer les très petites entreprises (TPE) sur des critères sociaux et écologiques et d'alimenter le budget public",
     "page_pdf": 50,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -1906,7 +1984,9 @@
     "texte": "Réaliser un audit du coût économique, social et écologique des banques et de la finance sur la société",
     "page_pdf": 50,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -1918,7 +1998,9 @@
     "texte": "Créer des banques de désinvestissement afin de regrouper les actifs écologiquement nocifs et absorber les pertes économiques liées à l'arrêt des activités polluantes",
     "page_pdf": 50,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -1930,7 +2012,9 @@
     "texte": "Dépolluer les flux financiers, en pénalisant la détention et l'usage d'actifs financiers nocifs climatiquement et écologiquement et en renchérissant le crédit pour les entreprises dont la comptabilité carbone n'est pas en conformité avec l'Accord de Paris",
     "page_pdf": 50,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -1942,7 +2026,9 @@
     "texte": "Créer une caisse de péréquation interentreprises financée grâce à un barème progressif pour mutualiser la contribution sociale entre petites et grandes entreprises",
     "page_pdf": 50,
     "filtres": [
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -1953,7 +2039,9 @@
     "titre": "Établir de nouveaux indicateurs de progrès humain pour mettre l'économie au service des objectifs et des critères de bien-vivre (santé, éducation, etc.)",
     "texte": "Moduler l'impôt sur les sociétés selon l'usage des bénéfices pour encourager l'investissement en France et pénaliser le versement de dividendes",
     "page_pdf": 51,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste"
+    ]
   },
   {
     "id": "AEC-0152",
@@ -1963,7 +2051,9 @@
     "titre": "Établir de nouveaux indicateurs de progrès humain pour mettre l'économie au service des objectifs et des critères de bien-vivre (santé, éducation, etc.)",
     "texte": "Interdire aux entreprises de distribuer un montant de dividendes supérieur à leurs bénéfices",
     "page_pdf": 51,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste"
+    ]
   },
   {
     "id": "AEC-0153",
@@ -1973,7 +2063,9 @@
     "titre": "Établir de nouveaux indicateurs de progrès humain pour mettre l'économie au service des objectifs et des critères de bien-vivre (santé, éducation, etc.)",
     "texte": "Mettre fin à la cotation continue des entreprises en Bourse et moduler les droits de vote des actionnaires selon la durée d'engagement dans l'entreprise",
     "page_pdf": 51,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste"
+    ]
   },
   {
     "id": "AEC-0154",
@@ -1983,7 +2075,9 @@
     "titre": "Établir de nouveaux indicateurs de progrès humain pour mettre l'économie au service des objectifs et des critères de bien-vivre (santé, éducation, etc.)",
     "texte": "Interdire les licenciements boursiers et économiques par les entreprises qui versent des dividendes ou bénéficient des aides de l'État",
     "page_pdf": 51,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste"
+    ]
   },
   {
     "id": "AEC-0155",
@@ -1996,7 +2090,10 @@
     "filtres": [
       "independant",
       "agriculteur",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -2010,7 +2107,10 @@
     "filtres": [
       "independant",
       "agriculteur",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -2024,7 +2124,10 @@
     "filtres": [
       "independant",
       "agriculteur",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -2038,7 +2141,10 @@
     "filtres": [
       "independant",
       "agriculteur",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -2052,7 +2158,10 @@
     "filtres": [
       "independant",
       "agriculteur",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -2066,7 +2175,10 @@
     "filtres": [
       "independant",
       "agriculteur",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -2078,7 +2190,8 @@
     "texte": "Refonder l'impôt sur les sociétés pour établir l'égalité devant l'impôt entre PME et grands groupes, instaurer un barème progressif en fonction des bénéfices réalisés et selon leur usage et favoriser l'investissement plutôt que la distribution de dividendes",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2090,7 +2203,8 @@
     "texte": "Rétablir et renforcer l'impôt de solidarité sur la fortune (ISF), incluant un volet climatique visant à taxer les gros pollueurs",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2102,7 +2216,8 @@
     "texte": "Introduire une garantie d'impôt de 2 % sur le patrimoine des milliardaires, dite taxe Zucman",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2114,7 +2229,8 @@
     "texte": "Supprimer la flat tax et imposer les revenus du capital comme ceux du travail",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2126,7 +2242,8 @@
     "texte": "Rendre la CSG progressive avec 14 tranches",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2138,7 +2255,8 @@
     "texte": "Augmenter les droits de succession sur les plus hauts patrimoines en comptabilisant l'ensemble des dons et héritages reçus tout au long de la vie et créer un héritage maximal de 12 millions d'euros (soit 100 fois le patrimoine net médian)",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2150,7 +2268,8 @@
     "texte": "Réduire la TVA sur les produits de première nécessité et réinstaurer une « TVA grand luxe » pour la financer",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2162,7 +2281,8 @@
     "texte": "Évaluer chacune des niches fiscales et supprimer les niches injustes, inefficaces socialement ou nuisibles écologiquement ; pour les niches restantes, transformer les « réductions d'impôts » en « crédits d'impôts » afin que chacun puisse bénéficier de ces incitations financières à égalité, quels que soient ses revenus",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2174,7 +2294,8 @@
     "texte": "Instaurer un impôt universel sur les entreprises (basant leur taxation sur l'activité effectivement réalisée en France) et sur les revenus des particuliers pour lutter contre l'évasion fiscale",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2186,7 +2307,8 @@
     "texte": "Rétablir l'exit tax supprimée par Emmanuel Macron",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2198,7 +2320,8 @@
     "texte": "Établir une taxe permanente sur les superprofits étendue à l'ensemble des secteurs d'activité, pas uniquement au secteur énergétique",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2210,7 +2333,8 @@
     "texte": "Refonder la taxe foncière pour la rendre progressive et que chacun paie à hauteur de son patrimoine total réel",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2222,7 +2346,8 @@
     "texte": "Mettre fin au quotient conjugal, système patriarcal favorisant les inégalités salariales entre les femmes et les hommes, remplacer l'injuste quotient familial fiscal actuel par un crédit d'impôt par enfant que pourraient toucher toutes les familles",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2234,7 +2359,8 @@
     "texte": "Faire de la lutte contre la fraude et l'évasion fiscales une priorité : tous les moyens humains et financiers nécessaires doivent être débloqués et la France prendra des décisions unilatérales en cas de blocage des négociations européennes ou internationales",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2246,7 +2372,8 @@
     "texte": "Mettre fin à la convention judiciaire d'intérêt public qui permet aux entreprises de négocier leur sanction financière en cas de fraude fiscale",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2258,7 +2385,8 @@
     "texte": "Augmenter les poursuites judiciaires et durcir les sanctions à l'encontre des criminels en col blanc, reconnus coupables de fraude fiscale",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2270,7 +2398,8 @@
     "texte": "Mettre fin aux pratiques frauduleuses d'arbitrage de dividendes",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2282,7 +2411,8 @@
     "texte": "Rendre obligatoire pour les entreprises la publication des aides publiques qu'elles perçoivent",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2294,7 +2424,8 @@
     "texte": "Créer une mission spéciale dressant le bilan des faveurs fiscales, des privatisations et des abandons de fleurons comme Alstom, Alcatel, EADS depuis trois décennies, permettre la mise en examen et la détention préventive des suspects",
     "page_pdf": 53,
     "filtres": [
-      "feministe"
+      "feministe",
+      "anticapitaliste"
     ]
   },
   {
@@ -2475,7 +2606,8 @@
     "page_pdf": 58,
     "filtres": [
       "salarie",
-      "independant"
+      "independant",
+      "anticapitaliste"
     ]
   },
   {
@@ -2488,7 +2620,8 @@
     "page_pdf": 58,
     "filtres": [
       "salarie",
-      "independant"
+      "independant",
+      "anticapitaliste"
     ]
   },
   {
@@ -2501,7 +2634,8 @@
     "page_pdf": 58,
     "filtres": [
       "salarie",
-      "independant"
+      "independant",
+      "anticapitaliste"
     ]
   },
   {
@@ -2514,7 +2648,8 @@
     "page_pdf": 58,
     "filtres": [
       "salarie",
-      "independant"
+      "independant",
+      "anticapitaliste"
     ]
   },
   {
@@ -2527,7 +2662,8 @@
     "page_pdf": 58,
     "filtres": [
       "salarie",
-      "independant"
+      "independant",
+      "anticapitaliste"
     ]
   },
   {
@@ -2540,7 +2676,8 @@
     "page_pdf": 58,
     "filtres": [
       "salarie",
-      "independant"
+      "independant",
+      "anticapitaliste"
     ]
   },
   {
@@ -2680,7 +2817,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2694,7 +2832,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2708,7 +2847,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2722,7 +2862,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2736,7 +2877,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2750,7 +2892,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2764,7 +2907,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2778,7 +2922,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2792,7 +2937,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2806,7 +2952,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2820,7 +2967,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2834,7 +2982,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2848,7 +2997,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2862,7 +3012,8 @@
     "filtres": [
       "etudiant",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2946,7 +3097,8 @@
     "filtres": [
       "feministe",
       "republicain",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2960,7 +3112,8 @@
     "filtres": [
       "feministe",
       "republicain",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2974,7 +3127,8 @@
     "filtres": [
       "feministe",
       "republicain",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -2988,7 +3142,8 @@
     "filtres": [
       "feministe",
       "republicain",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -3002,7 +3157,8 @@
     "filtres": [
       "feministe",
       "republicain",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -3016,7 +3172,8 @@
     "filtres": [
       "feministe",
       "republicain",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -3030,7 +3187,8 @@
     "filtres": [
       "feministe",
       "republicain",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -3434,7 +3592,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3448,7 +3607,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3462,7 +3622,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3476,7 +3637,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3490,7 +3652,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3504,7 +3667,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3518,7 +3682,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3532,7 +3697,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3546,7 +3712,8 @@
     "filtres": [
       "feministe",
       "salarie",
-      "fonctionnaire"
+      "fonctionnaire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3945,7 +4112,8 @@
       "fonctionnaire",
       "precaire",
       "outremer",
-      "locataire"
+      "locataire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3960,7 +4128,8 @@
       "fonctionnaire",
       "precaire",
       "outremer",
-      "locataire"
+      "locataire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3975,7 +4144,8 @@
       "fonctionnaire",
       "precaire",
       "outremer",
-      "locataire"
+      "locataire",
+      "anticapitaliste"
     ]
   },
   {
@@ -3990,7 +4160,8 @@
       "fonctionnaire",
       "precaire",
       "outremer",
-      "locataire"
+      "locataire",
+      "anticapitaliste"
     ]
   },
   {
@@ -4001,7 +4172,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Adopter des mesures antidumping d'urgence sur les industries stratégiques : sidérurgie, automobile, pharmaceutique, etc.",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0303",
@@ -4011,7 +4185,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Utiliser systématiquement le régime de contrôle public des investissements étrangers dans les secteurs où c'est possible (défense, santé, produits agricoles, recyclage de matières critiques, réseaux de transport) et élargir le décret qui le permet à tous les secteurs cruciaux de la bifurcation écologique",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0304",
@@ -4021,7 +4198,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Engager un plan de reconstruction industrielle pour mettre fin à la dépendance de la France dans les domaines stratégiques (semi-conducteurs, médicaments, etc.) et pour soutenir la bifurcation écologique (recyclage des batteries, aciers nécessaires aux énergies renouvelables, aluminium)",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0305",
@@ -4031,7 +4211,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Réviser le Code des marchés publics pour favoriser les entreprises sociales et solidaires, écologiques et locales",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0306",
@@ -4041,7 +4224,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Faire l'inventaire et l'évaluation des accords déjà appliqués et imposer le respect des normes sociales et écologiques pour la commercialisation des produits importés en France",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0307",
@@ -4051,7 +4237,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Instaurer des droits de douane sur des critères écologiques (émissions carbone, pollutions, empreinte hydrique, par exemple)",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0308",
@@ -4061,7 +4250,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Mettre fin aux niches fiscales sur le kérosène pour limiter le dumping du e-commerce depuis l'étranger",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0309",
@@ -4071,7 +4263,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Instaurer une taxe kilométrique aux frontières de la France pour dissuader les délocalisations et l'importation de produits trop éloignés",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0310",
@@ -4081,7 +4276,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Exiger un dépôt de garantie préalable auprès de la Banque de France en contrepartie d'un investissement étranger dans le pays",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0311",
@@ -4091,7 +4289,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Supprimer les avantages fiscaux sur l'épargne française investie à l'étranger, notamment pour l'assurance-vie",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0312",
@@ -4101,7 +4302,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Établir des critères de localisation de l'activité pour la commande publique nationale et locale et pour l'accord des aides aux entreprises",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0313",
@@ -4111,7 +4315,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Conditionner toute aide d'État aux grandes entreprises à des objectifs sociaux, écologiques et fiscaux contraignants et exiger le remboursement des aides en cas de non respect des contreparties",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0314",
@@ -4121,7 +4328,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Rendre effectives les peines de réquisition d'intérêt général pour toute délocalisation ou fermeture d'activité",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0315",
@@ -4131,7 +4341,10 @@
     "titre": "Relocaliser les productions essentielles à la vie de notre pays",
     "texte": "Renégocier le cadre de l'Organisation mondiale du commerce (OMC)",
     "page_pdf": 76,
-    "filtres": []
+    "filtres": [
+      "anticapitaliste",
+      "souverainete"
+    ]
   },
   {
     "id": "AEC-0316",
@@ -4144,7 +4357,9 @@
     "filtres": [
       "ecologiste",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -4158,7 +4373,9 @@
     "filtres": [
       "ecologiste",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -4172,7 +4389,9 @@
     "filtres": [
       "ecologiste",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -4186,7 +4405,9 @@
     "filtres": [
       "ecologiste",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -4200,7 +4421,9 @@
     "filtres": [
       "ecologiste",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -4214,7 +4437,9 @@
     "filtres": [
       "ecologiste",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -4228,7 +4453,9 @@
     "filtres": [
       "ecologiste",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -4242,7 +4469,9 @@
     "filtres": [
       "ecologiste",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -5077,8 +5306,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5095,8 +5324,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5113,8 +5342,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5131,8 +5360,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5149,8 +5378,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5167,8 +5396,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5185,8 +5414,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5203,8 +5432,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5221,8 +5450,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5239,8 +5468,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5257,8 +5486,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5275,8 +5504,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5293,8 +5522,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5311,8 +5540,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5329,8 +5558,8 @@
       "jeune",
       "handicap",
       "feministe",
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "precaire",
       "sportif"
     ]
@@ -5344,7 +5573,9 @@
     "texte": "Adopter des lois cadres instaurant une planification écologique et démocratique coordonnant les niveaux national et local",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5356,7 +5587,9 @@
     "texte": "Donner les moyens humains et financiers à l'État et ses opérateurs publics (comme le Cerema, l'Office national des forêts, l'Office français de la biodiversité ou Météo France) pour mener à bien leur rôle de planification",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5368,7 +5601,9 @@
     "texte": "Créer un Conseil à la planification écologique",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5380,7 +5615,9 @@
     "texte": "Relever les ambitions climatiques de la France avec pour objectif une baisse de 65 % des émissions en 2030 (au lieu de 50 % actuellement) et rendre public un bilan annuel",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5392,7 +5629,9 @@
     "texte": "Obliger les entreprises à mettre en oeuvre une comptabilité carbone pour les émissions directes et indirectes certifiée par un organisme public agréé en commençant par les secteurs les plus émetteurs de gaz à effet de serre (GES) - énergie, transport, bâtiment, industrie lourde - puis selon la taille des entreprises, accompagnée d'une trajectoire de baisse de leurs émissions",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5404,7 +5643,9 @@
     "texte": "Instaurer un crime climatique de dissimulation et de tromperie sur les émissions carbone des entreprises",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5416,7 +5657,9 @@
     "texte": "Inscrire dans les comptes publics un diagnostic régulier de l'état des écosystèmes, avec des indicateurs biophysiques et économiques permettant d'évaluer les coûts nécessaires pour restaurer leurs capacités",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5428,7 +5671,9 @@
     "texte": "Créer une Agence pour les relocalisations dépendant du Conseil à la planification écologique, chargée de recenser les secteurs industriels indispensables à la souveraineté nationale et à la bifurcation écologique, et d'établir un plan de relocalisation pour chaque filière ou production stratégique identifiée",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5440,7 +5685,9 @@
     "texte": "Développer un outil national inspiré de Copernicus pour suivre en temps réel les données clés sur l'économie et l'environnement, en compilant des images satellites, des mesures terrestres et maritimes, des informations sur les actifs industriels énergétiques et leurs impacts, etc.",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5452,7 +5699,9 @@
     "texte": "Mettre en place une logistique verte : rompre avec les flux tendus, développer les modes de transport propres et structurer une logistique territoriale, notamment en renforçant le rôle du train, du fluvial et en mutualisant les flux du dernier kilomètre",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5464,7 +5713,9 @@
     "texte": "Instaurer un moratoire sur les grands projets inutiles et écocidaires, les réévaluer au regard de la règle verte et de leur impact sur la biosphère",
     "page_pdf": 92,
     "filtres": [
-      "ecologiste"
+      "ecologiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5604,7 +5855,8 @@
     "filtres": [
       "ecologiste",
       "agriculteur",
-      "outremer"
+      "outremer",
+      "mer"
     ]
   },
   {
@@ -5618,7 +5870,8 @@
     "filtres": [
       "ecologiste",
       "agriculteur",
-      "outremer"
+      "outremer",
+      "mer"
     ]
   },
   {
@@ -5632,7 +5885,8 @@
     "filtres": [
       "ecologiste",
       "agriculteur",
-      "outremer"
+      "outremer",
+      "mer"
     ]
   },
   {
@@ -5646,7 +5900,8 @@
     "filtres": [
       "ecologiste",
       "agriculteur",
-      "outremer"
+      "outremer",
+      "mer"
     ]
   },
   {
@@ -5660,7 +5915,8 @@
     "filtres": [
       "ecologiste",
       "agriculteur",
-      "outremer"
+      "outremer",
+      "mer"
     ]
   },
   {
@@ -5674,7 +5930,8 @@
     "filtres": [
       "ecologiste",
       "agriculteur",
-      "outremer"
+      "outremer",
+      "mer"
     ]
   },
   {
@@ -5688,7 +5945,8 @@
     "filtres": [
       "ecologiste",
       "agriculteur",
-      "outremer"
+      "outremer",
+      "mer"
     ]
   },
   {
@@ -5702,7 +5960,9 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5716,7 +5976,9 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5730,7 +5992,9 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5744,7 +6008,9 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5759,7 +6025,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5774,7 +6042,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5789,7 +6059,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5804,7 +6076,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5819,7 +6093,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5834,7 +6110,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5849,7 +6127,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5864,7 +6144,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5879,7 +6161,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5894,7 +6178,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5909,7 +6195,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5924,7 +6212,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5939,7 +6229,9 @@
       "ecologiste",
       "outremer",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete"
     ]
   },
   {
@@ -5954,7 +6246,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5969,7 +6264,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5984,7 +6282,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -5999,7 +6300,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6014,7 +6318,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6029,7 +6336,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6044,7 +6354,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6059,7 +6372,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6074,7 +6390,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6089,7 +6408,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6104,7 +6426,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6119,7 +6444,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6134,7 +6462,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6149,7 +6480,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6164,7 +6498,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6179,7 +6516,10 @@
       "ecologiste",
       "precaire",
       "locataire",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -6311,7 +6651,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6326,7 +6667,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6341,7 +6683,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6356,7 +6699,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6371,7 +6715,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6386,7 +6731,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6401,7 +6747,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6416,7 +6763,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6431,7 +6779,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -6446,7 +6795,8 @@
       "retraite",
       "ecologiste",
       "agriculteur",
-      "campagne"
+      "campagne",
+      "souverainete"
     ]
   },
   {
@@ -7208,7 +7558,9 @@
     "filtres": [
       "ecologiste",
       "internationaliste",
-      "animaliste"
+      "animaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -7222,7 +7574,9 @@
     "filtres": [
       "ecologiste",
       "internationaliste",
-      "animaliste"
+      "animaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -7236,7 +7590,9 @@
     "filtres": [
       "ecologiste",
       "internationaliste",
-      "animaliste"
+      "animaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -7250,7 +7606,8 @@
     "filtres": [
       "republicain",
       "soignant",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7264,7 +7621,8 @@
     "filtres": [
       "republicain",
       "soignant",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7278,7 +7636,8 @@
     "filtres": [
       "republicain",
       "soignant",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7292,7 +7651,8 @@
     "filtres": [
       "republicain",
       "soignant",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7306,7 +7666,8 @@
     "filtres": [
       "republicain",
       "soignant",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7321,7 +7682,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7336,7 +7698,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7351,7 +7714,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7366,7 +7730,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7381,7 +7746,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7396,7 +7762,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7411,7 +7778,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7426,7 +7794,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7441,7 +7810,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7456,7 +7826,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7471,7 +7842,8 @@
       "retraite",
       "soignant",
       "campagne",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste"
     ]
   },
   {
@@ -7483,7 +7855,8 @@
     "texte": "Affecter les recettes des taxes sur le cannabis à des programmes de lutte contre les addictions, notamment en milieu scolaire, et à une politique de prévention, de réduction des risques et d'aide à la désintoxication",
     "page_pdf": 113,
     "filtres": [
-      "jeune"
+      "jeune",
+      "anticapitaliste"
     ]
   },
   {
@@ -7495,7 +7868,8 @@
     "texte": "S'attaquer aux causes des addictions, pour engager une politique de réduction des risques plutôt que de continuer une politique de répression des consommateurs",
     "page_pdf": 113,
     "filtres": [
-      "jeune"
+      "jeune",
+      "anticapitaliste"
     ]
   },
   {
@@ -7507,7 +7881,8 @@
     "texte": "Confier le pilotage de la politique de lutte contre les drogues au ministère de la Santé et non plus de l'Intérieur",
     "page_pdf": 113,
     "filtres": [
-      "jeune"
+      "jeune",
+      "anticapitaliste"
     ]
   },
   {
@@ -7519,7 +7894,8 @@
     "texte": "Accroître les forces de police et des douanes à des fins d'investigation et de remontées des filières",
     "page_pdf": 113,
     "filtres": [
-      "jeune"
+      "jeune",
+      "anticapitaliste"
     ]
   },
   {
@@ -7531,7 +7907,8 @@
     "texte": "Renforcer et développer les coopérations judiciaires (magistrats de liaison, attachés douaniers et attachés de sécurité intérieure) en particulier avec les pays de production et d'exportation de drogues",
     "page_pdf": 113,
     "filtres": [
-      "jeune"
+      "jeune",
+      "anticapitaliste"
     ]
   },
   {
@@ -7543,7 +7920,8 @@
     "texte": "Lutter contre les organisateurs du trafic de cigarettes et viser une jeunesse « zéro tabac »",
     "page_pdf": 113,
     "filtres": [
-      "jeune"
+      "jeune",
+      "anticapitaliste"
     ]
   },
   {
@@ -7676,7 +8054,9 @@
     "page_pdf": 118,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -7689,7 +8069,9 @@
     "page_pdf": 118,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -7702,7 +8084,9 @@
     "page_pdf": 118,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -7715,7 +8099,9 @@
     "page_pdf": 118,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -7728,7 +8114,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7741,7 +8129,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7754,7 +8144,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7767,7 +8159,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7780,7 +8174,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7793,7 +8189,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7806,7 +8204,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7819,7 +8219,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7832,7 +8234,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7845,7 +8249,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7858,7 +8264,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7871,7 +8279,9 @@
     "page_pdf": 119,
     "filtres": [
       "jeune",
-      "pacifiste"
+      "pacifiste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -7990,7 +8400,8 @@
     "filtres": [
       "republicain",
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -8004,7 +8415,8 @@
     "filtres": [
       "republicain",
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -8018,7 +8430,8 @@
     "filtres": [
       "republicain",
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -8032,7 +8445,8 @@
     "filtres": [
       "republicain",
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -8046,7 +8460,8 @@
     "filtres": [
       "republicain",
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -8060,7 +8475,8 @@
     "filtres": [
       "republicain",
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "europe_exigeant"
     ]
   },
   {
@@ -8073,7 +8489,8 @@
     "page_pdf": 122,
     "filtres": [
       "internationaliste",
-      "salarie"
+      "salarie",
+      "anticapitaliste"
     ]
   },
   {
@@ -8086,7 +8503,8 @@
     "page_pdf": 122,
     "filtres": [
       "internationaliste",
-      "salarie"
+      "salarie",
+      "anticapitaliste"
     ]
   },
   {
@@ -8099,7 +8517,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8112,7 +8532,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8125,7 +8547,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8138,7 +8562,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8151,7 +8577,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8164,7 +8592,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8177,7 +8607,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8190,7 +8622,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8203,7 +8637,9 @@
     "page_pdf": 122,
     "filtres": [
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste",
+      "mer"
     ]
   },
   {
@@ -8215,8 +8651,8 @@
     "texte": "S'opposer aux accords commerciaux inégaux afin d'éviter aux migrants de devoir fuir leur pays",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8229,8 +8665,8 @@
     "texte": "Agir contre les conséquences des bouleversements climatiques par des transferts de technologies et de l'aide financière et matérielle",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8243,8 +8679,8 @@
     "texte": "Sortir de l'impasse de la politique de Schengen et Frontex",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8257,8 +8693,8 @@
     "texte": "Assumer notre devoir d'humanité envers les réfugiés",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8271,8 +8707,8 @@
     "texte": "Faciliter l'accès aux visas, régulariser les travailleurs, étudiants, parents d'enfants scolarisés et instituer la carte de séjour de dix ans comme titre de séjour de référence",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8285,8 +8721,8 @@
     "texte": "Créer un statut de « détresse environnementale » apportant une protection temporaire pouvant devenir durable en fonction de la gravité de la catastrophe ayant entraîné la migration",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8299,8 +8735,8 @@
     "texte": "Suspendre le règlement Dublin, renégocier les accords du Touquet",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8313,8 +8749,8 @@
     "texte": "Prendre en charge les personnes migrantes grâce à des structures d'accueil et d'hébergement en nombre suffisant sur tout le territoire, en finir avec le délit de solidarité, créer un guichet unique d'accueil",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8327,8 +8763,8 @@
     "texte": "Refuser toute mise sous tutelle de l'OFPRA par le ministère de l'Intérieur",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8341,8 +8777,8 @@
     "texte": "Garantir pleinement le droit d'asile et la prise en compte des identités de genre et orientations sexuelles dans les procédures, notamment en prenant le temps d'étudier chaque dossier",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8355,8 +8791,8 @@
     "texte": "Abroger les dernières lois asile et immigration",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8369,8 +8805,8 @@
     "texte": "Garantir l'accès à l'aide médicale d'État (AME)",
     "page_pdf": 124,
     "filtres": [
-      "antiraciste",
       "lgbtqia",
+      "antiraciste",
       "internationaliste"
     ]
   },
@@ -8426,7 +8862,8 @@
     "page_pdf": 126,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste"
     ]
   },
   {
@@ -8439,7 +8876,8 @@
     "page_pdf": 126,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste"
     ]
   },
   {
@@ -8452,7 +8890,8 @@
     "page_pdf": 126,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste"
     ]
   },
   {
@@ -8465,7 +8904,8 @@
     "page_pdf": 126,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste"
     ]
   },
   {
@@ -8478,7 +8918,8 @@
     "page_pdf": 126,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "anticapitaliste"
     ]
   },
   {
@@ -8492,7 +8933,8 @@
     "filtres": [
       "etudiant",
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "mer"
     ]
   },
   {
@@ -8506,7 +8948,8 @@
     "filtres": [
       "etudiant",
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "mer"
     ]
   },
   {
@@ -8520,7 +8963,8 @@
     "filtres": [
       "etudiant",
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "mer"
     ]
   },
   {
@@ -8534,7 +8978,8 @@
     "filtres": [
       "etudiant",
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "mer"
     ]
   },
   {
@@ -8548,7 +8993,8 @@
     "filtres": [
       "etudiant",
       "ecologiste",
-      "internationaliste"
+      "internationaliste",
+      "mer"
     ]
   },
   {
@@ -8751,10 +9197,13 @@
     "texte": "La récupération par les États de leur souveraineté budgétaire",
     "page_pdf": 129,
     "filtres": [
-      "ecologiste",
       "republicain",
+      "ecologiste",
       "internationaliste",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8766,10 +9215,13 @@
     "texte": "La modification du statut de la Banque centrale européenne (BCE)",
     "page_pdf": 129,
     "filtres": [
-      "ecologiste",
       "republicain",
+      "ecologiste",
       "internationaliste",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8781,10 +9233,13 @@
     "texte": "La mise en place de règles d'harmonisation sociale et écologique à l'intérieur de l'Union",
     "page_pdf": 129,
     "filtres": [
-      "ecologiste",
       "republicain",
+      "ecologiste",
       "internationaliste",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8796,10 +9251,13 @@
     "texte": "La mise en place d'un protectionnisme écologique",
     "page_pdf": 129,
     "filtres": [
-      "ecologiste",
       "republicain",
+      "ecologiste",
       "internationaliste",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8811,10 +9269,13 @@
     "texte": "Le droit pour les États de venir en aide à des entreprises ou à créer des monopoles publics dans des secteurs stratégiques",
     "page_pdf": 129,
     "filtres": [
-      "ecologiste",
       "republicain",
+      "ecologiste",
       "internationaliste",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8826,10 +9287,13 @@
     "texte": "Le droit à l'eau comme droit fondamental pour tous les Européens",
     "page_pdf": 129,
     "filtres": [
-      "ecologiste",
       "republicain",
+      "ecologiste",
       "internationaliste",
-      "services_publics"
+      "services_publics",
+      "anticapitaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8842,7 +9306,9 @@
     "page_pdf": 130,
     "filtres": [
       "republicain",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8855,7 +9321,9 @@
     "page_pdf": 130,
     "filtres": [
       "republicain",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8868,7 +9336,9 @@
     "page_pdf": 130,
     "filtres": [
       "republicain",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8881,7 +9351,9 @@
     "page_pdf": 130,
     "filtres": [
       "republicain",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8893,9 +9365,11 @@
     "texte": "Abroger les accords de libre-échange en vigueur (comme avec la Nouvelle-Zélande, le Canada, le Japon)",
     "page_pdf": 131,
     "filtres": [
-      "ecologiste",
       "republicain",
-      "salarie"
+      "ecologiste",
+      "salarie",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8907,9 +9381,11 @@
     "texte": "Cesser d'appliquer unilatéralement les normes incompatibles avec nos engagements écologiques et sociaux telles que la directive sur le détachement des travailleurs, les règles budgétaires, les règles de la concurrence, la libre circulation des capitaux",
     "page_pdf": 131,
     "filtres": [
-      "ecologiste",
       "republicain",
-      "salarie"
+      "ecologiste",
+      "salarie",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8921,9 +9397,11 @@
     "texte": "Suspendre la participation (opt-out) de la France à certains programmes comme l'Europe de la défense et s'opposer à la reconduction d'un Commissaire européen à la Défense dont le poste participe à l'édification d'une Europe de la guerre",
     "page_pdf": 131,
     "filtres": [
-      "ecologiste",
       "republicain",
-      "salarie"
+      "ecologiste",
+      "salarie",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8935,9 +9413,11 @@
     "texte": "Utiliser les contradictions entre les règles européennes et nos engagements internationaux sur le climat et le travail pour faire primer les normes les plus exigeantes",
     "page_pdf": 131,
     "filtres": [
-      "ecologiste",
       "republicain",
-      "salarie"
+      "ecologiste",
+      "salarie",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8949,9 +9429,11 @@
     "texte": "Réaffirmer la supériorité des principes fondamentaux inscrits dans la Constitution de la 6e République sur le droit européen et instaurer un principe de non-régression écologique et sociale : aucune norme européenne ne peut s'appliquer si elle est moins ambitieuse qu'une norme nationale sur le plan social ou écologique",
     "page_pdf": 131,
     "filtres": [
-      "ecologiste",
       "republicain",
-      "salarie"
+      "ecologiste",
+      "salarie",
+      "souverainete",
+      "europe_exigeant"
     ]
   },
   {
@@ -8966,7 +9448,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -8981,7 +9465,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -8996,7 +9482,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9011,7 +9499,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9026,7 +9516,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9041,7 +9533,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9056,7 +9550,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9071,7 +9567,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9086,7 +9584,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9101,7 +9601,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9116,7 +9618,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9131,7 +9635,9 @@
       "ecologiste",
       "internationaliste",
       "animaliste",
-      "outremer"
+      "outremer",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9145,7 +9651,10 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "souverainete",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9159,7 +9668,10 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "souverainete",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9173,7 +9685,10 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "souverainete",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9187,7 +9702,10 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "souverainete",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9201,7 +9719,10 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "souverainete",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9215,7 +9736,10 @@
     "filtres": [
       "ecologiste",
       "salarie",
-      "services_publics"
+      "services_publics",
+      "souverainete",
+      "progres_technologique",
+      "mer"
     ]
   },
   {
@@ -9228,7 +9752,9 @@
     "page_pdf": 134,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9241,7 +9767,9 @@
     "page_pdf": 134,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9254,7 +9782,9 @@
     "page_pdf": 134,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9267,7 +9797,9 @@
     "page_pdf": 134,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9280,7 +9812,9 @@
     "page_pdf": 134,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9293,7 +9827,9 @@
     "page_pdf": 134,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9306,7 +9842,9 @@
     "page_pdf": 134,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9319,7 +9857,9 @@
     "page_pdf": 134,
     "filtres": [
       "pacifiste",
-      "internationaliste"
+      "internationaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9332,9 +9872,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9347,9 +9888,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9362,9 +9904,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9377,9 +9920,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9392,9 +9936,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9407,9 +9952,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9422,9 +9968,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9437,9 +9984,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9452,9 +10000,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9467,9 +10016,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9482,9 +10032,10 @@
     "page_pdf": 135,
     "filtres": [
       "antiraciste",
+      "libertes_numeriques",
       "campagne",
       "services_publics",
-      "libertes_numeriques"
+      "progres_technologique"
     ]
   },
   {
@@ -9496,8 +10047,11 @@
     "texte": "Passer sous contrôle public les infrastructures du numérique et des télécommunications et les relocaliser",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9509,8 +10063,11 @@
     "texte": "Construire un cloud véritablement public, composé de data centers publics interconnectés",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9522,8 +10079,11 @@
     "texte": "Créer une agence publique des logiciels libres chargée de planifier leur développement stratégique domaine par domaine en identifiant les manques et en finançant les projets-clés",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9535,8 +10095,11 @@
     "texte": "Généraliser l'usage des logiciels libres dans les administrations publiques et l'Éducation nationale",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9548,8 +10111,11 @@
     "texte": "Permettre à tous les citoyens et à toutes les entreprises l'accès à des services et logiciels en ligne hébergés sur des serveurs français de droit français et développer progressivement une offre publique pour les services numériques essentiels : moteur de recherche, paiements en ligne, etc.",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9561,8 +10127,11 @@
     "texte": "Refuser la censure privée sur les réseaux sociaux opérée par les GAFAM",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9574,8 +10143,11 @@
     "texte": "Garantir l'hébergement des données des services publics français et des entreprises essentielles sur des serveurs de droit français situés en France",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9587,8 +10159,11 @@
     "texte": "Défendre une gouvernance mondiale d'Internet en établissant une agence consacrée par l'ONU",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9600,8 +10175,11 @@
     "texte": "Favoriser la coopération entre les États pour développer des solutions numériques émancipées des GAFAM",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   },
   {
@@ -9613,8 +10191,11 @@
     "texte": "Renforcer l'excellence française dans le virtuel, soutenir les créations françaises dans un but émancipateur",
     "page_pdf": 136,
     "filtres": [
+      "libertes_numeriques",
       "services_publics",
-      "libertes_numeriques"
+      "anticapitaliste",
+      "souverainete",
+      "progres_technologique"
     ]
   }
 ]

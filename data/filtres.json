@@ -2,211 +2,246 @@
   {
     "slug": "jeune",
     "label": "Je suis jeune",
-    "groupe": "Autres",
+    "groupe": "Qui je suis",
     "description": "Mesures qui concernent directement les 16-30 ans : autonomie des jeunes, éducation/formation, emploi des jeunes, service citoyen, participation et vote des jeunes.",
     "nb_mesures": 104
   },
   {
     "slug": "etudiant",
     "label": "Je suis étudiant·e",
-    "groupe": "Autres",
+    "groupe": "Qui je suis",
     "description": "Mesures sur l'enseignement supérieur, les conditions de vie étudiantes, les bourses, le logement étudiant, la gratuité des études.",
     "nb_mesures": 42
   },
   {
     "slug": "retraite",
     "label": "Je suis retraité·e",
-    "groupe": "Autres",
+    "groupe": "Qui je suis",
     "description": "Mesures sur l'âge de départ, le montant et l'indexation des pensions, les EHPAD et le grand âge, la dépendance.",
     "nb_mesures": 37
   },
   {
     "slug": "parent",
     "label": "Je suis parent",
-    "groupe": "Autres",
+    "groupe": "Qui je suis",
     "description": "Mesures sur la petite enfance, l'école, la protection de l'enfance, le soutien à la parentalité, la nutrition et la santé des enfants.",
     "nb_mesures": 43
   },
   {
     "slug": "handicap",
     "label": "Je suis en situation de handicap",
-    "groupe": "Autres",
+    "groupe": "Qui je suis",
     "description": "Mesures sur l'autonomie financière, l'accessibilité, l'école inclusive (AESH), l'emploi (ESAT) et la prise en charge du handicap.",
     "nb_mesures": 21
   },
   {
     "slug": "feministe",
     "label": "Je suis féministe",
-    "groupe": "Autres",
+    "groupe": "Qui je suis",
     "description": "Mesures sur l'égalité femmes-hommes, les violences sexistes et sexuelles, les droits reproductifs, les écarts de rémunération et de retraite, la parité.",
     "nb_mesures": 110
   },
   {
-    "slug": "ecologiste",
-    "label": "Je suis écologiste",
-    "groupe": "Autres",
-    "description": "Mesures de planification écologique, climat, biodiversité, énergie, eau, forêt, agriculture écologique, pollution.",
-    "nb_mesures": 212
-  },
-  {
-    "slug": "antiraciste",
-    "label": "Je suis antiraciste",
-    "groupe": "Autres",
-    "description": "Mesures de lutte contre les discriminations raciales, le contrôle au faciès, l'islamophobie et l'antisémitisme, la mémoire de l'esclavage et de la colonisation.",
-    "nb_mesures": 55
-  },
-  {
     "slug": "lgbtqia",
     "label": "Je suis LGBTQIA+",
-    "groupe": "Autres",
+    "groupe": "Qui je suis",
     "description": "Mesures sur les droits et la protection des personnes LGBTI : violences, thérapies de conversion, changement d'état civil, droit d'asile, associations LGBTI.",
     "nb_mesures": 49
   },
   {
+    "slug": "antiraciste",
+    "label": "Je suis antiraciste",
+    "groupe": "Qui je suis",
+    "description": "Mesures de lutte contre les discriminations raciales, le contrôle au faciès, l'islamophobie et l'antisémitisme, la mémoire de l'esclavage et de la colonisation.",
+    "nb_mesures": 55
+  },
+  {
     "slug": "republicain",
     "label": "Je crois aux valeurs républicaines",
-    "groupe": "Autres",
+    "groupe": "Mes valeurs et engagements",
     "description": "Mesures institutionnelles et démocratiques : 6e République, laïcité, RIC, séparation de l'argent et de l'État, universalisme, État de droit.",
     "nb_mesures": 120
   },
   {
+    "slug": "ecologiste",
+    "label": "Je suis écologiste",
+    "groupe": "Mes valeurs et engagements",
+    "description": "Mesures de planification écologique, climat, biodiversité, énergie, eau, forêt, agriculture écologique, pollution.",
+    "nb_mesures": 212
+  },
+  {
     "slug": "pacifiste",
     "label": "Je suis pacifiste",
-    "groupe": "Autres",
+    "groupe": "Mes valeurs et engagements",
     "description": "Mesures de désescalade militaire, sortie de l'OTAN, désarmement, cessez-le-feu, refus de la course aux armements.",
     "nb_mesures": 42
   },
   {
     "slug": "internationaliste",
     "label": "Je suis internationaliste",
-    "groupe": "Autres",
+    "groupe": "Mes valeurs et engagements",
     "description": "Mesures de coopération internationale, réforme des institutions multilatérales (ONU, FMI, OMC), solidarité entre les peuples, diplomatie altermondialiste.",
     "nb_mesures": 100
   },
   {
     "slug": "animaliste",
     "label": "Je suis animaliste",
-    "groupe": "Autres",
+    "groupe": "Mes valeurs et engagements",
     "description": "Mesures de protection de la cause animale : fermes-usines, maltraitance, chasse et loisirs cruels, expérimentation animale, biodiversité.",
     "nb_mesures": 22
   },
   {
+    "slug": "libertes_numeriques",
+    "label": "Je défends les libertés numériques",
+    "groupe": "Mes valeurs et engagements",
+    "description": "Mesures sur la neutralité du Net, la protection des données, le chiffrement, la souveraineté numérique, la lutte contre la surveillance algorithmique.",
+    "nb_mesures": 32
+  },
+  {
     "slug": "salarie",
     "label": "Je suis salarié·e",
-    "groupe": "Autres",
+    "groupe": "Ma situation professionnelle",
     "description": "Mesures sur le temps de travail, les salaires, les droits collectifs dans l'entreprise, les conditions de travail, la protection contre les licenciements.",
     "nb_mesures": 75
   },
   {
     "slug": "fonctionnaire",
     "label": "Je suis fonctionnaire",
-    "groupe": "Autres",
+    "groupe": "Ma situation professionnelle",
     "description": "Mesures sur le statut, les rémunérations et les moyens des agents publics (Éducation nationale, hôpital, collectivités, fonction publique d'État).",
     "nb_mesures": 47
   },
   {
     "slug": "independant",
     "label": "Je suis indépendant·e",
-    "groupe": "Autres",
+    "groupe": "Ma situation professionnelle",
     "description": "Mesures sur le statut des travailleurs indépendants, autoentrepreneurs, plateformes numériques, TPE/PME.",
     "nb_mesures": 33
   },
   {
     "slug": "agriculteur",
     "label": "Je suis agriculteur·rice",
-    "groupe": "Autres",
+    "groupe": "Ma situation professionnelle",
     "description": "Mesures sur les prix agricoles, la PAC, la réforme agraire, les retraites agricoles, l'agriculture écologique et la souveraineté alimentaire.",
     "nb_mesures": 36
   },
   {
     "slug": "chomage",
     "label": "Je suis au chômage",
-    "groupe": "Autres",
+    "groupe": "Ma situation professionnelle",
     "description": "Mesures sur l'assurance-chômage, l'indemnisation, la garantie d'emploi, les droits des demandeurs d'emploi.",
     "nb_mesures": 13
   },
   {
     "slug": "precaire",
     "label": "Je vis une situation précaire",
-    "groupe": "Autres",
+    "groupe": "Ma situation professionnelle",
     "description": "Mesures de lutte contre la pauvreté et la précarité : garantie d'autonomie, minima sociaux, contrats précaires, accès aux droits.",
     "nb_mesures": 84
   },
   {
     "slug": "soignant",
     "label": "Je suis soignant·e",
-    "groupe": "Autres",
+    "groupe": "Ma situation professionnelle",
     "description": "Mesures sur l'hôpital public, les professionnels de santé, le grand âge, la réponse aux pandémies, la médecine du travail.",
     "nb_mesures": 21
   },
   {
     "slug": "enseignant",
     "label": "Je suis enseignant·e",
-    "groupe": "Autres",
+    "groupe": "Ma situation professionnelle",
     "description": "Mesures sur les personnels de l'Éducation nationale, leur rémunération, leurs moyens et les réformes de l'école.",
     "nb_mesures": 14
   },
   {
     "slug": "outremer",
     "label": "J'habite en Outre-mer",
-    "groupe": "Autres",
+    "groupe": "Où j'habite",
     "description": "Mesures spécifiques aux territoires d'Outre-mer : eau, services publics, planification écologique, diplomatie, protection de l'enfance.",
     "nb_mesures": 91
   },
   {
     "slug": "campagne",
     "label": "J'habite à la campagne",
-    "groupe": "Autres",
+    "groupe": "Où j'habite",
     "description": "Mesures pour les territoires ruraux métropolitains : maillage de services publics, agriculture, mobilité, déserts médicaux (Outre-mer exclu, voir filtre dédié).",
     "nb_mesures": 103
   },
   {
     "slug": "quartier_populaire",
     "label": "J'habite un quartier populaire",
-    "groupe": "Autres",
+    "groupe": "Où j'habite",
     "description": "Mesures pour les quartiers populaires : maillage de services publics, éducation prioritaire, police de proximité, lutte contre les discriminations.",
     "nb_mesures": 30
   },
   {
     "slug": "locataire",
     "label": "Je suis locataire",
-    "groupe": "Autres",
+    "groupe": "Où j'habite",
     "description": "Mesures sur l'encadrement des loyers, la protection contre les expulsions, le logement social, la rénovation des passoires thermiques.",
     "nb_mesures": 34
   },
   {
     "slug": "aidant_familial",
     "label": "Je suis aidant·e familial·e",
-    "groupe": "Autres",
+    "groupe": "Mon quotidien",
     "description": "Mesures sur le service public de la dépendance, le soutien aux aidants et le maintien à domicile des personnes âgées ou dépendantes.",
     "nb_mesures": 5
   },
   {
     "slug": "services_publics",
     "label": "Je soutiens les services publics",
-    "groupe": "Autres",
+    "groupe": "Mon quotidien",
     "description": "Mesures de défense et de renforcement des services publics : santé, éducation, transports, énergie, eau, justice, sécurité, médias publics.",
     "nb_mesures": 315
   },
   {
-    "slug": "libertes_numeriques",
-    "label": "Je défends les libertés numériques",
-    "groupe": "Autres",
-    "description": "Mesures sur la neutralité du Net, la protection des données, le chiffrement, la souveraineté numérique, la lutte contre la surveillance algorithmique.",
-    "nb_mesures": 32
-  },
-  {
     "slug": "sportif",
     "label": "Je suis sportif·ve",
-    "groupe": "Autres",
+    "groupe": "Mon quotidien",
     "description": "Mesures sur l'accès au sport, le sport scolaire et amateur, le sport féminin, la lutte contre les discriminations dans le sport.",
     "nb_mesures": 15
   },
   {
     "slug": "artiste",
     "label": "Je suis artiste",
-    "groupe": "Autres",
+    "groupe": "Mon quotidien",
     "description": "Mesures sur le budget de la culture, le statut des artistes et intermittents, la création et la diffusion artistique.",
     "nb_mesures": 24
+  },
+  {
+    "slug": "anticapitaliste",
+    "label": "Je suis anticapitaliste",
+    "groupe": "Mes valeurs et engagements",
+    "description": "Mesures qui remettent en cause le pouvoir de l'argent et de la finance : nationalisations, pôles publics, plafonnement des dividendes et des hauts revenus, lutte contre l'évasion fiscale, fin des brevets privés sur le vivant et les médicaments, monopoles publics, réquisitions.",
+    "nb_mesures": 223
+  },
+  {
+    "slug": "souverainete",
+    "label": "Je défends la souveraineté nationale",
+    "groupe": "Mes valeurs et engagements",
+    "description": "Mesures d'indépendance industrielle, énergétique, alimentaire, militaire, numérique et monétaire de la France : relocalisations, nationalisations stratégiques, protectionnisme écologique, sortie de l'OTAN, primauté de la Constitution française.",
+    "nb_mesures": 142
+  },
+  {
+    "slug": "europe_exigeant",
+    "label": "Je suis exigeant·e envers l'Europe",
+    "groupe": "Mes valeurs et engagements",
+    "description": "Mesures qui posent des exigences précises à l'Union européenne ou à ses institutions : réforme de la BCE et des traités, droit de veto, désobéissance aux règles incompatibles avec le programme.",
+    "nb_mesures": 39
+  },
+  {
+    "slug": "progres_technologique",
+    "label": "Je crois au progrès technologique",
+    "groupe": "Mes valeurs et engagements",
+    "description": "Mesures d'investissement et de développement scientifique et technologique : recherche, espace, énergies nouvelles, numérique souverain, technologies de rupture.",
+    "nb_mesures": 105
+  },
+  {
+    "slug": "mer",
+    "label": "Je sais l'importance de la mer",
+    "groupe": "Mes valeurs et engagements",
+    "description": "Mesures sur les océans, le littoral, la pêche, les ports, la marine marchande, la biodiversité et les énergies marines, la Méditerranée, les pôles.",
+    "nb_mesures": 50
   }
 ]
