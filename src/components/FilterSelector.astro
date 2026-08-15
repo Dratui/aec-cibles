@@ -1,0 +1,41 @@
+---
+import { FILTRES, type Filtre } from "../lib/filtres";
+
+const base = import.meta.env.BASE_URL;
+
+interface Groupe {
+  nom: string;
+  filtres: Filtre[];
+}
+
+const groupes: Groupe[] = [];
+for (const filtre of FILTRES) {
+  let groupe = groupes.find((g) => g.nom === filtre.groupe);
+  if (!groupe) {
+    groupe = { nom: filtre.groupe, filtres: [] };
+    groupes.push(groupe);
+  }
+  groupe.filtres.push(filtre);
+}
+---
+
+<div class="filter-groups">
+  {
+    groupes.map((groupe) => (
+      <section class="filter-group">
+        <h2>{groupe.nom}</h2>
+        <div class="filter-card-grid">
+          {groupe.filtres.map((filtre) => (
+            <a class="filter-card" href={`${base}resultats/${filtre.slug}/`}>
+              <h3>{filtre.label}</h3>
+              <p class="filter-card-desc">{filtre.description}</p>
+              <p class="filter-card-count">
+                {filtre.nb_mesures} mesure{filtre.nb_mesures > 1 ? "s" : ""}
+              </p>
+            </a>
+          ))}
+        </div>
+      </section>
+    ))
+  }
+</div>

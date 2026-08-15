@@ -1,0 +1,46 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import MesureCard from "../../components/MesureCard.astro";
+import { FILTRES, type Filtre } from "../../lib/filtres";
+import { getMesuresGroupeesParFiltre } from "../../lib/mesures";
+
+export function getStaticPaths() {
+  return FILTRES.map((filtre) => ({
+    params: { filtre: filtre.slug },
+    props: { filtre },
+  }));
+}
+
+interface Props {
+  filtre: Filtre;
+}
+
+const { filtre } = Astro.props;
+const groupes = getMesuresGroupeesParFiltre(filtre.slug);
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title={`${filtre.label} — L'Avenir en commun`} description={filtre.description}>
+  <a class="back-link" href={base}>&larr; Retour aux profils</a>
+  <header class="resultats-header">
+    <h1>{filtre.label}</h1>
+    <p>{filtre.description}</p>
+    <p class="mesure-count">
+      {groupes.length} mesure{groupes.length > 1 ? "s" : ""} trouvée{groupes.length > 1 ? "s" : ""}
+    </p>
+  </header>
+  {
+    groupes.length === 0 ? (
+      <p class="empty-state">
+        Aucune mesure n'est encore qualifiée pour ce profil. Les mesures sont
+        rattachées aux profils via l'Excel source — revenez bientôt !
+      </p>
+    ) : (
+      <div class="mesure-list">
+        {groupes.map((groupe) => (
+          <MesureCard groupe={groupe} />
+        ))}
+      </div>
+    )
+  }
+</Layout>

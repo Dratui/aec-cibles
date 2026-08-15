@@ -1,0 +1,17 @@
+---
+import type { MesureGroupee } from "../lib/mesures";
+
+export interface Props {
+  groupe: MesureGroupee;
+}
+
+const { groupe } = Astro.props;
+---
+
+<article class="mesure-card">
+  <p class="mesure-meta">{groupe.axe} · {groupe.sous_theme}</p>
+  <h3>{groupe.titre}</h3>
+  <ul class="mesure-textes">
+    {groupe.textes.map((texte) => <li>{texte}</li>)}
+  </ul>
+</article>
