@@ -1,0 +1,22 @@
+# Dépendances
+node_modules/
+
+# Build Astro
+dist/
+.astro/
+
+# Environnement
+.env
+.env.*
+!.env.example
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Fichiers Excel temporaires (garder uniquement la version validée dans /data-source si besoin)
+~$*.xlsx
